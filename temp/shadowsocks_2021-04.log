@@ -17569,3 +17569,153 @@
 [2021-04-10 23:21:14] [Info] Disconnect 74.125.204.188:5228
 [2021-04-10 23:21:14] [Info] Connect mtalk.google.com:5228 via zheniplc.ddns-only.xyz:10028
 [2021-04-10 23:21:14] [Info] DNS nolock query mtalk.google.com answer 74.125.204.188
+[2021-04-10 23:21:33] [Info] Direct connect gfs-op.douyucdn.cn:443
+[2021-04-10 23:21:34] [Info] Direct connect streamdot.douyucdn.cn:443
+[2021-04-10 23:21:34] [Info] DNS query array608.prod.do.dsp.mp.microsoft.com answer 51.104.167.245
+[2021-04-10 23:21:34] [Info] Connect array608.prod.do.dsp.mp.microsoft.com:443 via zheniplc.ddns-only.xyz:10028
+[2021-04-10 23:21:34] [Info] DNS nolock query array608.prod.do.dsp.mp.microsoft.com answer 51.104.167.245
+[2021-04-10 23:21:38] [Info] Direct connect dotbeats.douyucdn.cn:443
+[2021-04-10 23:21:48] [Info] DNS query github.githubassets.com answer 185.199.110.154
+[2021-04-10 23:21:48] [Info] Connect github.githubassets.com:443 via zheniplc.ddns-only.xyz:10028
+[2021-04-10 23:21:48] [Info] DNS nolock query github.githubassets.com answer 185.199.110.154
+[2021-04-10 23:21:49] [Info] Connect github.githubassets.com:443 via zheniplc.ddns-only.xyz:10028
+[2021-04-10 23:21:49] [Info] DNS nolock query github.githubassets.com answer 185.199.110.154
+[2021-04-10 23:21:49] [Info] DNS query avatars.githubusercontent.com answer 185.199.108.133
+[2021-04-10 23:21:49] [Info] Connect avatars.githubusercontent.com:443 via zheniplc.ddns-only.xyz:10028
+[2021-04-10 23:21:49] [Info] DNS nolock query avatars.githubusercontent.com answer 185.199.108.133
+[2021-04-10 23:21:49] [Info] Disconnect 140.82.112.25:443
+[2021-04-10 23:21:49] [Info] Connect alive.github.com:443 via zheniplc.ddns-only.xyz:10028
+[2021-04-10 23:21:49] [Info] DNS nolock query alive.github.com answer 140.82.112.25
+[2021-04-10 23:21:50] [Info] DNS query collector.githubapp.com answer 107.21.155.104
+[2021-04-10 23:21:50] [Info] Connect collector.githubapp.com:443 via zheniplc.ddns-only.xyz:10028
+[2021-04-10 23:21:50] [Info] DNS nolock query collector.githubapp.com answer 107.21.155.104
+[2021-04-10 23:21:56] [Info] Direct connect adservice.google.com:443
+[2021-04-10 23:21:56] [Info] DNS query csdnimg.cn answer 120.198.50.71
+[2021-04-10 23:21:56] [Info] Direct connect csdnimg.cn:443
+[2021-04-10 23:21:56] [Info] DNS query blog.csdn.net answer 101.200.35.175
+[2021-04-10 23:21:56] [Info] Direct connect blog.csdn.net:443
+[2021-04-10 23:21:56] [Info] DNS query event.csdn.net answer 39.107.11.172
+[2021-04-10 23:21:56] [Info] Direct connect event.csdn.net:443
+[2021-04-10 23:21:56] [Info] DNS query dup.baidustatic.com answer 112.25.86.49
+[2021-04-10 23:21:56] [Info] Direct connect dup.baidustatic.com:443
+[2021-04-10 23:21:56] [Info] DNS query g.csdnimg.cn answer 112.30.242.135
+[2021-04-10 23:21:56] [Info] Direct connect g.csdnimg.cn:443
+[2021-04-10 23:21:57] [Info] Direct connect suggestion.baidu.com:443
+[2021-04-10 23:22:00] [Info] Direct connect suggestion.baidu.com:443
+[2021-04-10 23:22:00] [Info] Direct connect suggestion.baidu.com:443
+[2021-04-10 23:22:00] [Info] Direct connect suggestion.baidu.com:443
+[2021-04-10 23:22:03] [Info] Direct connect suggestion.baidu.com:443
+[2021-04-10 23:22:03] [Info] Direct connect suggestion.baidu.com:443
+[2021-04-10 23:22:03] [Info] Direct connect suggestion.baidu.com:443
+[2021-04-10 23:22:04] [Info] Direct connect suggestion.baidu.com:443
+[2021-04-10 23:22:04] [Info] Direct connect suggestion.baidu.com:443
+[2021-04-10 23:22:04] [Info] Direct connect suggestion.baidu.com:443
+[2021-04-10 23:22:04] [Info] Direct connect suggestion.baidu.com:443
+[2021-04-10 23:22:04] [Info] DNS query www.baidu.com answer 36.152.44.96
+[2021-04-10 23:22:04] [Info] DNS query www.baidu.com answer 36.152.44.96
+[2021-04-10 23:22:04] [Info] Direct connect www.baidu.com:443
+[2021-04-10 23:22:04] [Info] Direct connect www.baidu.com:443
+[2021-04-10 23:22:05] [Info] DNS query hm.baidu.com answer 112.34.111.235
+[2021-04-10 23:22:05] [Info] DNS query hm.baidu.com answer 112.34.111.235
+[2021-04-10 23:22:05] [Info] Direct connect hm.baidu.com:443
+[2021-04-10 23:22:05] [Info] Direct connect hm.baidu.com:443
+[2021-04-10 23:22:05] [Info] DNS query dss1.bdstatic.com answer 36.156.36.33
+[2021-04-10 23:22:05] [Info] Direct connect dss1.bdstatic.com:443
+[2021-04-10 23:22:05] [Info] DNS query dss0.bdstatic.com answer 112.25.86.33
+[2021-04-10 23:22:05] [Info] Direct connect dss0.bdstatic.com:443
+[2021-04-10 23:22:05] [Info] DNS query ss1.baidu.com answer 36.156.36.33
+[2021-04-10 23:22:05] [Info] Direct connect ss1.baidu.com:443
+[2021-04-10 23:22:05] [Info] DNS query ss0.baidu.com answer 36.156.36.33
+[2021-04-10 23:22:05] [Info] Direct connect ss0.baidu.com:443
+[2021-04-10 23:22:05] [Info] DNS query hectorstatic.baidu.com answer 36.156.36.38
+[2021-04-10 23:22:05] [Info] Direct connect hectorstatic.baidu.com:443
+[2021-04-10 23:22:05] [Info] DNS query sp1.baidu.com answer 36.152.44.96
+[2021-04-10 23:22:05] [Info] DNS query sp1.baidu.com answer 36.152.44.96
+[2021-04-10 23:22:05] [Info] Direct connect sp1.baidu.com:443
+[2021-04-10 23:22:05] [Info] Direct connect sp1.baidu.com:443
+[2021-04-10 23:22:05] [Info] DNS query sp0.baidu.com answer 36.152.44.95
+[2021-04-10 23:22:05] [Info] Direct connect sp0.baidu.com:443
+[2021-04-10 23:22:06] [Info] DNS query gt2.baidu.com answer 220.181.38.149
+[2021-04-10 23:22:06] [Info] Direct connect gt2.baidu.com:443
+[2021-04-10 23:22:06] [Info] DNS query gt1.baidu.com answer 220.181.38.149
+[2021-04-10 23:22:06] [Info] Direct connect gt1.baidu.com:443
+[2021-04-10 23:22:07] [Info] DNS query pcrec.baidu.com answer 36.152.44.96
+[2021-04-10 23:22:07] [Info] Direct connect pcrec.baidu.com:443
+[2021-04-10 23:22:07] [Info] Disconnect 107.21.155.104:443
+[2021-04-10 23:22:07] [Info] DNS query static.zhihu.com answer 223.111.108.95
+[2021-04-10 23:22:07] [Info] DNS query zhuanlan.zhihu.com answer 111.48.89.18
+[2021-04-10 23:22:07] [Info] Direct connect static.zhihu.com:443
+[2021-04-10 23:22:07] [Info] Direct connect zhuanlan.zhihu.com:443
+[2021-04-10 23:22:07] [Info] Direct connect static.zhihu.com:443
+[2021-04-10 23:22:08] [Info] DNS query pic4.zhimg.com answer 112.25.86.41
+[2021-04-10 23:22:08] [Info] DNS query pic2.zhimg.com answer 112.25.86.41
+[2021-04-10 23:22:08] [Info] Direct connect pic4.zhimg.com:443
+[2021-04-10 23:22:08] [Info] Direct connect pic2.zhimg.com:443
+[2021-04-10 23:22:08] [Info] DNS query unpkg.zhimg.com answer 223.111.230.206
+[2021-04-10 23:22:08] [Info] Direct connect unpkg.zhimg.com:443
+[2021-04-10 23:22:09] [Info] DNS query www.zhihu.com answer 112.29.193.13
+[2021-04-10 23:22:09] [Info] Direct connect www.zhihu.com:443
+[2021-04-10 23:22:09] [Info] DNS query sugar.zhihu.com answer 111.48.89.19
+[2021-04-10 23:22:09] [Info] Direct connect sugar.zhihu.com:443
+[2021-04-10 23:22:09] [Info] Disconnect 172.217.160.78:443
+[2021-04-10 23:22:09] [Info] Disconnect 185.199.110.154:443
+[2021-04-10 23:22:09] [Info] Disconnect 192.30.255.116:443
+[2021-04-10 23:22:09] [Info] Disconnect 172.217.160.106:443
+[2021-04-10 23:22:09] [Info] Disconnect 172.217.160.74:443
+[2021-04-10 23:22:10] [Info] Disconnect 192.30.255.113:443
+[2021-04-10 23:22:10] [Info] Disconnect 185.199.110.154:443
+[2021-04-10 23:22:10] [Info] Disconnect 185.199.108.133:443
+[2021-04-10 23:22:10] [Info] Direct connect www.zhihu.com:443
+[2021-04-10 23:22:10] [Info] DNS query pic3.zhimg.com answer 112.25.86.41
+[2021-04-10 23:22:10] [Info] DNS query pic1.zhimg.com answer 223.111.25.242
+[2021-04-10 23:22:10] [Info] DNS query zhihu-web-analytics.zhihu.com answer 140.143.214.102
+[2021-04-10 23:22:10] [Info] Direct connect pic3.zhimg.com:443
+[2021-04-10 23:22:10] [Info] Direct connect pic1.zhimg.com:443
+[2021-04-10 23:22:10] [Info] Direct connect zhihu-web-analytics.zhihu.com:443
+[2021-04-10 23:22:10] [Info] Direct connect www.zhihu.com:443
+[2021-04-10 23:22:10] [Info] DNS query zhihu-web-analytics.zhihu.com answer 140.143.214.102
+[2021-04-10 23:22:10] [Info] Direct connect www.zhihu.com:443
+[2021-04-10 23:22:10] [Info] Direct connect zhihu-web-analytics.zhihu.com:443
+[2021-04-10 23:22:10] [Info] Direct connect pic1.zhimg.com:443
+[2021-04-10 23:22:10] [Info] Direct connect pic3.zhimg.com:443
+[2021-04-10 23:22:10] [Info] Direct connect www.zhihu.com:443
+[2021-04-10 23:22:10] [Info] Direct connect www.zhihu.com:443
+[2021-04-10 23:22:10] [Info] Direct connect zhihu-web-analytics.zhihu.com:443
+[2021-04-10 23:22:10] [Info] Direct connect www.zhihu.com:443
+[2021-04-10 23:22:10] [Info] Direct connect www.zhihu.com:443
+[2021-04-10 23:22:10] [Info] Direct connect zhihu-web-analytics.zhihu.com:443
+[2021-04-10 23:22:10] [Info] DNS query mqtt-web.zhihu.com answer 117.135.128.14
+[2021-04-10 23:22:10] [Info] DNS query pay.zhihu.com answer 103.41.167.236
+[2021-04-10 23:22:10] [Info] Direct connect mqtt-web.zhihu.com:443
+[2021-04-10 23:22:10] [Info] Direct connect pay.zhihu.com:443
+[2021-04-10 23:22:10] [Info] Connect content-autofill.googleapis.com:443 via zheniplc.ddns-only.xyz:10028
+[2021-04-10 23:22:10] [Info] DNS nolock query content-autofill.googleapis.com answer 172.217.160.74
+[2021-04-10 23:22:10] [Info] DNS query zhstatic.zhihu.com answer 223.111.26.241
+[2021-04-10 23:22:10] [Info] Direct connect zhstatic.zhihu.com:443
+[2021-04-10 23:22:10] [Info] Direct connect pic4.zhimg.com:443
+[2021-04-10 23:22:15] [Info] Direct connect webim.tim.qq.com:443
+[2021-04-10 23:22:16] [Info] Connect clients4.google.com:443 via zheniplc.ddns-only.xyz:10028
+[2021-04-10 23:22:16] [Info] DNS nolock query clients4.google.com answer 172.217.160.78
+[2021-04-10 23:22:32] [Info] Direct connect gfs-op.douyucdn.cn:443
+[2021-04-10 23:22:34] [Info] Direct connect streamdot.douyucdn.cn:443
+[2021-04-10 23:22:36] [Info] Direct connect www.baidu.com:443
+[2021-04-10 23:22:37] [Info] Direct connect ss0.baidu.com:443
+[2021-04-10 23:22:37] [Info] Direct connect ss1.baidu.com:443
+[2021-04-10 23:22:37] [Info] Direct connect www.baidu.com:443
+[2021-04-10 23:22:37] [Info] DNS query ss3.baidu.com answer 112.25.86.33
+[2021-04-10 23:22:37] [Info] Direct connect ss3.baidu.com:443
+[2021-04-10 23:22:37] [Info] DNS query ss2.baidu.com answer 36.156.36.33
+[2021-04-10 23:22:37] [Info] Direct connect ss2.baidu.com:443
+[2021-04-10 23:22:38] [Info] Direct connect dotbeats.douyucdn.cn:443
+[2021-04-10 23:22:41] [Info] Direct connect dotserver.douyucdn.cn:443
+[2021-04-10 23:22:41] [Info] Direct connect www.baidu.com:443
+[2021-04-10 23:22:41] [Info] Direct connect www.baidu.com:443
+[2021-04-10 23:22:42] [Info] Direct connect hectorstatic.baidu.com:443
+[2021-04-10 23:22:42] [Info] Direct connect hectorstatic.baidu.com:443
+[2021-04-10 23:22:42] [Info] Direct connect dss0.bdstatic.com:443
+[2021-04-10 23:22:42] [Info] Direct connect sp1.baidu.com:443
+[2021-04-10 23:22:42] [Info] Direct connect sp0.baidu.com:443
+[2021-04-10 23:22:59] [Info] Direct connect 182.254.116.116:80
+[2021-04-10 23:22:59] [Info] DNS query btrace.qq.com answer 117.184.242.157
+[2021-04-10 23:22:59] [Info] Direct connect btrace.qq.com:443
+[2021-04-10 23:23:00] [Info] Direct connect collector.galaxyclouds.cn:443
