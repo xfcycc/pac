@@ -4,6 +4,8 @@ var rules = [
   "||steampowered.com",
   "||steamcommunity.com",
   "||github.com",
+  "||githubusercontent.com",
+  "||forexample.com",
   "|https://www.bitkk.com",
   "|https://www.okex.com",
   "||2dbook.com",
