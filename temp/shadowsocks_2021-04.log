@@ -17479,3 +17479,19 @@
 [2021-04-10 23:09:10] [Info] DNS nolock query mtalk.google.com answer 74.125.204.188
 [2021-04-10 23:10:28] [Info] Disconnect 216.58.200.228:443
 [2021-04-10 23:10:44] [Info] Disconnect 172.217.160.78:443
+[2021-04-10 23:11:10] [Info] Disconnect 74.125.204.188:5228
+[2021-04-10 23:11:10] [Info] Connect mtalk.google.com:5228 via zheniplc.ddns-only.xyz:10028
+[2021-04-10 23:11:10] [Info] DNS nolock query mtalk.google.com answer 74.125.204.188
+[2021-04-10 23:11:18] [Info] Direct connect adservice.google.com:443
+[2021-04-10 23:11:22] [Info] Connect github.com:443 via zheniplc.ddns-only.xyz:10028
+[2021-04-10 23:11:22] [Info] DNS nolock query github.com answer 192.30.255.113
+[2021-04-10 23:11:23] [Info] Disconnect 140.82.112.25:443
+[2021-04-10 23:11:23] [Info] Connect alive.github.com:443 via zheniplc.ddns-only.xyz:10028
+[2021-04-10 23:11:23] [Info] DNS nolock query alive.github.com answer 140.82.112.25
+[2021-04-10 23:11:23] [Info] Connect api.github.com:443 via zheniplc.ddns-only.xyz:10028
+[2021-04-10 23:11:23] [Info] DNS nolock query api.github.com answer 192.30.255.116
+[2021-04-10 23:11:29] [Info] Connect clients4.google.com:443 via zheniplc.ddns-only.xyz:10028
+[2021-04-10 23:11:29] [Info] DNS nolock query clients4.google.com answer 172.217.160.78
+[2021-04-10 23:13:11] [Info] Disconnect 74.125.204.188:5228
+[2021-04-10 23:13:11] [Info] Connect mtalk.google.com:5228 via zheniplc.ddns-only.xyz:10028
+[2021-04-10 23:13:11] [Info] DNS nolock query mtalk.google.com answer 74.125.204.188
