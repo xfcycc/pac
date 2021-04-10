@@ -4,8 +4,8 @@ ShadowsocksR-dotnet2.0.exe.sig
 chn_ip.txt
 gui-config.json
 gui-config.json.backup
-temp/*
-templates/*
+temp/
+templates/
 transfer_log.json
 user-rule.txt
 user.rule
