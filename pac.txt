@@ -3,6 +3,11 @@
 var rules = [
   "||steampowered.com",
   "||steamcommunity.com",
+  "||xixicats.pw",
+  "||xixi0001.com",
+  "||xixi.ph",
+  "||xixicats.pw",
+  "secure.gravatar.com",
   "||github.com",
   "||githubusercontent.com",
   "||forexample.com",
