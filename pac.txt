@@ -3,6 +3,7 @@
 var rules = [
   "||steampowered.com",
   "||steamcommunity.com",
+  "||steamstatic.com",
   "||xixicats.pw",
   "||xixi0001.com",
   "||xixi.ph",
