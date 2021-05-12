@@ -1,6 +1,8 @@
 ﻿var proxy = "__PROXY__";
 
 var rules = [
+  "||akamaihd.net",
+  "||steamcdn-a.akamaihd.net",
   "||steampowered.com",
   "||steamcommunity.com",
   "||steamstatic.com",
@@ -9,6 +11,7 @@ var rules = [
   "||xixi.ph",
   "||xixicats.pw",
   "||us11.",
+  "||binancezh.co",
   "ocr.space",
   "secure.gravatar.com",
   "map.projectzomboid.com",
