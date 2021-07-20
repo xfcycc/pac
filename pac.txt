@@ -1,7 +1,9 @@
 ﻿var proxy = "__PROXY__";
 
 var rules = [
-  "||bilibili.com",
+  "||wiki.52poke.com",
+  "||discord.com",
+  "||gravatar.loli.net",
   "||twitch.tv",
   "||tlanyan",
   "||nicovideo",
