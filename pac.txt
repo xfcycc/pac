@@ -1,6 +1,8 @@
 ﻿var proxy = "__PROXY__";
 
 var rules = [
+  "||genshin-gacha-analyzer",
+  "||twimg.com",
   "||wiki.52poke.com",
   "||discord.com",
   "||gravatar.loli.net",
