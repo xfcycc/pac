@@ -21,6 +21,7 @@ var rules = [
   "||xixi0001.com",
   "||xixi.ph",
   "||xixicats.pw",
+  "||openai.com",
   "||translate.googleapis",
   "||translate.google",
   "||us11.",
